@@ -3,10 +3,18 @@
 ## Title
 **You're an expert. Here's how to teach like one.**
 
+<!--- Great title --->
+
 _Guidelines: Puns, jokes, or “hooks” in titles are okay, but make sure that if all someone knew was the title, they still would have some idea what the presentation is about._
 
 ## Description
-Knowing how to code and being able to teach it are two separate skills. When we have expertise in a subject, it's common to take for granted that we'll be able to effectively communicate our expertise to someone else. Come learn (or re-learn!) how to teach and discover practical examples you can put to work right away.
+Knowing how to code and being able to teach it are two separate skills. When we have expertise in a subject, it's common to take for granted that we'll be able to effectively communicate our expertise to someone else. 
+
+<!--- Might want to point out the stakes here; i.e. what might happen if we take expertise for granted? Put students off learning? Discourage junior teammates? Alienate potential collaborators? Forget that we're still learning, too? --->
+
+Come learn (or re-learn!) how to teach and discover practical examples you can put to work right away.
+
+<!--- Would be a great opportunity to state the Hear Me Code philosophy of teaching upfront right here! Something along the lines of "it's just as much about compassion as it is computation"? --->
 
 By sharpening your teaching skills, you'll be a more effective mentor, trainer, and team member.
 
@@ -26,6 +34,9 @@ _Guidelines: 1–2 paragraphs that should answer three questions: (1) Who is thi
 _Committee note: The “Audience” section helps the program committee get a sense of whether your talk is geared more at novices or experienced individuals in a given subject. (We need a balance of both lower-level and advanced talks to make a great PyCon!) It also helps us evaluate the relevance of your talk to the Python community._
 
 ## Outline
+
+<!--- I love the idea of giving the audience tangible & memorable examples they can walk out of the talk with! For instance your practical example about teaching loops & enumerate in 'Examples that connect', and the handy responses to students in the 'Fostering a love of learning' sections. Could you also provide a sense of how you'd present the lessons in the 'Know your audience' and 'Know what to hold back' sections?, e.g. case studies of students and teachers you've observed in Hear Me Code, anecdotes of how you learned the hard way, etc. --->
+
 1. **Know your audience** (8 minutes)
     * **Connect with your audience.** Why should they listen to you? What can you offer them?
     * **What are their motivations?** Knowing why your audience wants to learn can help you tailor your lesson.
@@ -50,8 +61,8 @@ _Committee note: The “Audience” section helps the program committee get a se
 
 4. **Fostering a love of learning** (7 minutes)
     * **Celebrate progress.** Positive feedback encourages growth. Negativity stifles learning.
-    * **"I don't know, let's find out".** This magic phrase reminds learners encourages questions and is a reminder that you don't need to know everything; learning never ends.
-    * **Great question. I love your instincts.** Don't be annoyed when the learner is mentally jumping ahead a few slides and asking about material you're about to cover -- that's a sign that you're doing a good job!
+    * **"I don't know, let's find out."** This magic phrase encourages questions and is a reminder that you don't need to know everything; learning never ends.
+    * **"Great question. I love your instincts."** Don't be annoyed when the learner is mentally jumping ahead a few slides and asking about material you're about to cover -- that's a sign that you're doing a good job!
     * **Move about.** When possible, teaching concepts through movement makes for unforgettable experiences.
     * **We learn by teaching.** Teaching reinforces what we've learned, forces us to think flexibly, and creates bonds.
 
@@ -71,3 +82,5 @@ Speaker subject matter experience.
 Have the speaker(s) given this presentation before elsewhere?
 Links to recordings, slides, blog posts, code, or other material. 
 Specific needs or special requests — accessibility, audio (will you need to play pre-recorded sound?), or restrictions on when your talk can be scheduled._
+
+<!--- Best of luck and look forward to seeing you around! --->
